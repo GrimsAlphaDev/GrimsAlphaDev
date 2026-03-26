@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/haikal-dev-fs">
-    <img src="https://img.shields.io/github/followers/haikal-dev-fs?label=Followers&style=for-the-badge" alt="GitHub followers" />
+  <a href="https://github.com/GrimsAlphaDev">
+    <img src="https://img.shields.io/github/followers/GrimsAlphaDev?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Web%20Development-1f6feb?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Learning-New%20Things-0a7ea4?style=for-the-badge" alt="Learning" />
@@ -34,8 +34,8 @@ I enjoy turning ideas into real products, exploring new technologies, and improv
 ## GitHub Snapshot
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haikal-dev-fs&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikal-dev-fs&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GrimsAlphaDev&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimsAlphaDev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 ## Let's Connect
